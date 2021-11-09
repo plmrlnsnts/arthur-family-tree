@@ -1,6 +1,6 @@
-# 👑 Arthur Family Tree
+# 👑 Arthur's Family Tree
 
-Make sure that you are have **PHP 8.0** installed in your machine when running this application.
+Make sure that you have **PHP 8.0** installed in your machine when running this application.
 
 ```bash
 git clone git@github.com:plmrlnsnts/arthur-family-tree.git
